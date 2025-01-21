@@ -62,4 +62,7 @@ Khmer GRS Academy ប្រើប្រាស់បណ្តាញសង្គ�
 
 [ចុចមើលទីតាំងលើ Google Map]:https://maps.app.goo.gl/sPpWC6pLUS5HiBNCA
 
-ចូលទៅកាន់គេហទំព័ររបស់យើង: [khmergrs.com](https://www.khmergrs.com/).
+ចូលទៅកាន់គេហទំព័ររបស់យើង: [khmergrs.com]{:target="_blank"}
+
+[khmergrs.com]: https://www.khmergrs.com/
+
